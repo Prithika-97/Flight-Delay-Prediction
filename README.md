@@ -52,6 +52,14 @@ Train the ML/DL models with the flight and weather data.
 Tune hyperparameters for optimal results.
 Dashboard:
 Use Google Looker Studio to view real-time insights and visualize the predictions.
+## Interactive Dashboard
+
+🚀 I have created an interactive **Flight Delay Prediction Dashboard** using **Google Looker Studio**. This dashboard provides valuable insights into flight delays and helps the aviation industry make data-driven decisions. You can explore the dashboard here:
+
+[🔗 Flight Delay Prediction Dashboard](https://lookerstudio.google.com/reporting/eabc690d-f17f-4149-a066-93d39f21beae/page/mcBME)
+
+Feel free to explore and analyze the data presented through this dashboard!
+
 Example Prediction
 You can test the model with new flight data, and the system will predict whether the flight is likely to be delayed and by how much.
 
